@@ -1,5 +1,6 @@
 # Loan-Classification
 Classifying loans into accepted or rejected, predicting loan grade.
+
 Project completed on **May 12, 2023.**
 
 ### About the dataset
